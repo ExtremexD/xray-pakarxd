@@ -1,0 +1,14 @@
+{
+    "name": "XRAY-V2RAY-VLEES-HEROKU ",
+    "description": "DEPLOY Xray SERVER TO HEROKU",
+    "logo":"",
+    "keywords": ["xray"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,You can generate new UUID using this website (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/",
+    "stack": "container"
+}
