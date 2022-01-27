@@ -36,4 +36,6 @@ steps for nubs
 boom you are done 
 
 if you dont understand contact me on telegram
-t.me/extreme_xD
+
+
+cc ; hacker-no45
